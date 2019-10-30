@@ -1,2 +1,2 @@
 # appTest10
-This is mi first aplication to learn how to use Git and Gi9tHut/GigLab
+This is my first application to learn how to use Git and Github/Gitlab. 
